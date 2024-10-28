@@ -35,5 +35,5 @@ Modelagem Preditiva: Com dados suficientes, considerar a implementação de mode
 ## 📊 Visualização de Dados
 
 
-### Outros pontos
+## Outros pontos
 Além da análise das viagens, também foi realizada uma análise subsidiária do desempenho dos motoristas e oportunidades de melhorias na atribuição de atividades de cargas. O projeto utilizou as bibliotecas Plotly, Pandas, Matplotlib e Seaborn, com uma única base de dados (bd.csv). O arquivo `project.ipynb` contém todo o código necessário para as análises, além de um arquivo oculto com regras de negócio relevantes.
